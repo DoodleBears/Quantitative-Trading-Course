@@ -1,2 +1,5 @@
 .history
 .ipynb_checkpoints
+*.docx
+*.html
+*.csv
